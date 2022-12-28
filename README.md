@@ -1,2 +1,2 @@
 # JavaExercicios
-Exercícios em JAVA utilizando Strings
+Exercícios de todos os tipos utlizando JAVA
